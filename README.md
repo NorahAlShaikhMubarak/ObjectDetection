@@ -15,3 +15,4 @@ Difference between RGB and BGR. Most often, an RGB color is stored in a structur
 The reason the early developers at OpenCV chose BGR color format is that back then BGR color format was popular among camera manufacturers and software providers. E.g. in Windows, when specifying color value using COLORREF they use the BGR format 0x00bbggrr.
 
 # Expected output: 
+![screencapture-colab-research-google-drive-1VWmFRCcxQ-OfZLreeRSxPYyCzrgSXr7K-2020-06-28-16_30_28](https://user-images.githubusercontent.com/50755701/85949001-bbf8dc80-b95c-11ea-9248-d2180d19b808.png)
